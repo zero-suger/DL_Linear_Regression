@@ -3,3 +3,6 @@ Linear regression analysis is used to predict the value of a variable based on t
 
 In this file, I tried to test DL functions, classes and appy them to LR(Linear Regression.)
 
+Used language : Python
+
+Used library : PyTorch
